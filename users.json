@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,"name": "Praneet","email": "praneetnegi01@gmail.com","password": "1234"
+    },
+    {
+        "id": 2,"name": "Prateek","email": "prateeknegi01@gmail.com","password": "1234"
+    },
+    {
+        "id": 3,"name": "Raja","email": "Raja@gmail.com","password": "1234"
+    },
+    {
+        "id": 4,"name": "Shivam","email": "Shivam@gmail.com","password": "1234"
+    },
+    {
+        "id": 5,"name": "Sarthak","email": "Sarthak@gmail.com","password": "1234"
+    },
+    {
+        "id": 5,"name": "Saurav","email": "Sarthak@gmail.com","password": "1234"
+    }
+]
